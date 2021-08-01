@@ -1,1 +1,2 @@
-# EJS-Blog
+# ejs-blog
+# ejs-blog
