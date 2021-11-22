@@ -1,13 +1,14 @@
 # Blog Website
+------------
 It is a beautiful personal website where you can write blogs about any topic and you can display it in the home page.
 It has a very minmilistic styling .
 It has a compose page, a home page, an about page and a contact us page.
 All the blog posts will be displayed in the home page in a chronological order but the actual blog posts will be displayed seperately in a seperate page when you click on read more.
 # The link to this website is
+------------
 https://dailyjournal23.herokuapp.com/
 
 # Skills
-------------
 1. HTML
 2. CSS
 3. Javascript
