@@ -8,6 +8,7 @@ https://dailyjournal23.herokuapp.com/
 
 # The Screenshots
 ![image](https://user-images.githubusercontent.com/74773717/142864757-f87ecaa4-238b-4d6d-a73a-8f865bfc689f.png)
+
 ![image](https://user-images.githubusercontent.com/74773717/142864941-ea627916-9710-418a-9113-91f31a81ddcd.png)
 
 
