@@ -11,4 +11,9 @@ https://dailyjournal23.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/74773717/142864941-ea627916-9710-418a-9113-91f31a81ddcd.png)
 
-
+# Skills
+HTML
+CSS
+Javascript
+EJS
+BootStrap
