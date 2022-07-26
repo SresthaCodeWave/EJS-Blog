@@ -20,4 +20,5 @@ https://dailyjournal23.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/74773717/142864941-ea627916-9710-418a-9113-91f31a81ddcd.png)
 
+![image](https://user-images.githubusercontent.com/74773717/181058557-b3c12c06-0f0e-428e-bfff-74f17620f00e.png)
 
